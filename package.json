@@ -15,7 +15,7 @@
     "gulp-minify-css": "^0.3.7",
     "gulp-rev": "^7.1.2",
     "gulp-replace": "^0.5.4",
-    "npm": "^3.10.9"
+    "npm": "^6.14.6"
   },
   "devDependencies": {},
   "scripts": {
